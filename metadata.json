@@ -1,0 +1,6 @@
+{
+  "name": "ERP Item Codification Engine",
+  "description": "Automated sequential ERP codification module with bounds validation, conversion rule prefixing, and admin range provisioning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
